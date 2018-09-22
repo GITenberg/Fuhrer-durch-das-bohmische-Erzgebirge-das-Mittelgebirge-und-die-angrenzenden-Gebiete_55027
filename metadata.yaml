@@ -1,11 +1,16 @@
 _repo: Fuhrer-durch-das-bohmische-Erzgebirge-das-Mittelgebirge-und-die-angrenzenden-Gebiete_55027
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55027-h/images/cover.jpg
 creator:
   author:
     agent_name: Weymann, August
     gutenberg_agent_id: '48158'
     url: http://www.gutenberg.org/2009/agents/48158
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55027#Fuhrer-durch-das-bohmische-Erzgebirge-das-Mittelgebirge-und-die-angrenzenden-Gebiete
 gutenberg_issued: '2017-07-02'
 gutenberg_type: Text
 identifiers:
